@@ -1,2 +1,3 @@
 This is a trial for git
 This line is to update using git
+This is to test with vs code
